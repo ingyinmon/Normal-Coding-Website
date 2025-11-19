@@ -1,6 +1,7 @@
 function ReactMastery() {
   return (
     <>
+      <div>React Mastery Course Page</div>
     </>
   )
 }
